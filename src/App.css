@@ -4,7 +4,7 @@
 
   background-color: #3953e6;
 
-  background-image: url('/images/bg_static.jpg');
+  background-image: url('/bg_static.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@
 
   gap: 24px;
 
-  background-color: #ffffff;
+  background-color: transparent;
 
   overflow: hidden;
 }
